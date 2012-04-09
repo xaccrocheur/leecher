@@ -1,0 +1,28 @@
+* leecher.pl
+
+** USAGE
+
+GetThis.pl [URI] [PATH] [FILE_EXT]
+
+Where URI is the address of a web page, PATH a directory where you
+want to save the files, and FILE_EXT the extension of the files you
+want to leech. You will then get a visual output of the file download
+progress. Sit back, relax, and watch the pixels move.
+
+** EXAMPLE
+
+GetThis.pl
+http://koomaluola.com:8888/Ambient%20%26%20Chillout/Brian%20Eno%20-%20Ambient/Ambient%202_The%20Plateaux%20Of%20Mirror/
+~/Music/eno mp3
+
+** FEATURES
+- So yes, the URI can contain a lot of nasty stuff (the things ppl put
+  in filenames... Sheesh) the script will try to take care of this.
+- If the directory does not exist, you will be asked to create it.
+- All non-existing dirs leading to the directory will be created.
+- For obvious reasons, if your directory (PATH) name contains spaces
+  (Sheesh) you'll have to enclose the it in quotes of sorts.
+- If for some reason you interrupt the script and re-launch it with
+  the same PATH (or if URI contains several links to the same file)
+  the script will take care of not downloading the same file
+  twice. All hail CURL !

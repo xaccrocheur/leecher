@@ -2,7 +2,7 @@
 
 ** USAGE
 
-GetThis.pl [URI] [PATH] [FILE_EXT]
+leecher.pl [URI] [PATH] [FILE_EXT]
 
 Where URI is the address of a web page, PATH a directory where you
 want to save the files, and FILE_EXT the extension of the files you
@@ -11,7 +11,7 @@ progress. Sit back, relax, and watch the pixels move.
 
 ** EXAMPLE
 
-GetThis.pl
+leecher.pl
 http://koomaluola.com:8888/Ambient%20%26%20Chillout/Brian%20Eno%20-%20Ambient/Ambient%202_The%20Plateaux%20Of%20Mirror/
 ~/Music/eno mp3
 

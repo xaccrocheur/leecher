@@ -1,6 +1,7 @@
+#!/usr/bin/perl
+
 # https://github.com/xaccrocheur/leecher
 
-#!/usr/bin/perl
 
 use diagnostics;
 use diagnostics -verbose;

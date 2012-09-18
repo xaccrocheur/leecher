@@ -1,6 +1,6 @@
-#!/usr/bin/perl
-# # MyWget.pl (c) 2012 C.M. Coatmeur
+# https://github.com/xaccrocheur/leecher
 
+#!/usr/bin/perl
 
 use diagnostics;
 use diagnostics -verbose;

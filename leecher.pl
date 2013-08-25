@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 # https://github.com/xaccrocheur/leecher
-
+# Package deps : libio-all-lwp-perl, libhtml-parser-perl
 
 use diagnostics;
 use diagnostics -verbose;

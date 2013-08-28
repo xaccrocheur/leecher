@@ -11,9 +11,26 @@ progress. Sit back, relax, and watch the pixels move.
 
 ** EXAMPLE
 
-leecher.pl
-http://koomaluola.com:8888/Ambient%20%26%20Chillout/Brian%20Eno%20-%20Ambient/Ambient%202_The%20Plateaux%20Of%20Mirror/
-~/Music/eno mp3
+⚡ leecher.pl http://www.boston.com/bigpicture/2013/08/creatures_great_and_small.html ~/Music/IndusDI/plop jpg
+
+### Found :
+
+(163)
+big_picture_header.jpg
+bp1.jpg
+(...)
+bp8.jpg
+bp9.jpg
+
+### DL those files in [/home/px/Music/IndusDI/plop]? (Y/n)
+
+### [/home/px/Music/IndusDI/plop] does not exist, create it? (Y/n)
+
+big_picture_header.jpg
+######################################################################## 100.0%
+
+bp1.jpg
+######################################################################## 100.0%
 
 ** FEATURES
 - So yes, the URI can contain a lot of nasty stuff (the things ppl put

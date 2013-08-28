@@ -9,6 +9,9 @@ want to save the files, and FILE_EXT the extension of the files you
 want to leech. You will then get a visual output of the file download
 progress. Sit back, relax, and watch the pixels move.
 
+Leecher lets you download all the files linked from a particular web
+page, allowing filtering on said file extension.
+
 ** EXAMPLE
 
 ⚡ leecher.pl http://www.boston.com/bigpicture/2013/08/creatures_great_and_small.html ~/Music/IndusDI/plop jpg
@@ -32,6 +35,8 @@ big_picture_header.jpg
 
 bp1.jpg
 ######################################################################## 100.0%
+
+(ans so on)
 
 #+END_SRC
 

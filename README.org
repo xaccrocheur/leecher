@@ -13,6 +13,7 @@ progress. Sit back, relax, and watch the pixels move.
 
 ⚡ leecher.pl http://www.boston.com/bigpicture/2013/08/creatures_great_and_small.html ~/Music/IndusDI/plop jpg
 
+#+BEGIN_SRC
 ### Found :
 
 (163)
@@ -31,6 +32,8 @@ big_picture_header.jpg
 
 bp1.jpg
 ######################################################################## 100.0%
+
+#+END_SRC
 
 ** FEATURES
 - So yes, the URI can contain a lot of nasty stuff (the things ppl put

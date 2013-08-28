@@ -14,9 +14,9 @@ page, allowing filtering on said file extension.
 
 ** EXAMPLE
 
+#+BEGIN_SRC
 ⚡ leecher.pl http://www.boston.com/bigpicture/2013/08/creatures_great_and_small.html ~/Music/IndusDI/plop jpg
 
-#+BEGIN_SRC
 ### Found :
 
 (163)
